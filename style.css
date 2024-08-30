@@ -185,7 +185,14 @@ body, html {
     grid-template-columns: 250px;
     grid-template-rows: repeat(3, 60px);
     gap: 10px;
-  }}
+  }
+#Aboutme{
+  margin-top: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 100px;
+}
+}
 #emailLink:active{
   background-color: white;
 }
