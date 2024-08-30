@@ -4,12 +4,7 @@
     padding: 5px;
     border-radius: 5px;
   }
-h1{
-    font-size: 5vw;
-}
-p{
-    font-size: 5vw;
-} 
+
   /* Style the header links */
   .header a {
     float: left;
@@ -152,6 +147,18 @@ body, html {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, 1fr);
   }
+h1{
+    font-size: 5vw;
+}
+p{
+    font-size: 5vw;
+} 
+#Aboutme{
+  margin-top: 60px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+}    
 }
 @media screen and (min-width: 1001px) and (max-width: 1500px) {
   .flipcard-container {
@@ -186,12 +193,7 @@ body, html {
     grid-template-rows: repeat(3, 60px);
     gap: 10px;
   }
-#Aboutme{
-  margin-top: 60px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 100px;
-}
+
 }
 #emailLink:active{
   background-color: white;
