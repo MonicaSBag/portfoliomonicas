@@ -5,10 +5,10 @@
     border-radius: 5px;
   }
 h1{
-    font-size: 1vw;
+    font-size: 5vw;
 }
 p{
-    font-size: 1vw;
+    font-size: 5vw;
 } 
   /* Style the header links */
   .header a {
@@ -188,8 +188,8 @@ body, html {
   }
 #Aboutme{
   margin-top: 60px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 100px;
 }
 }
