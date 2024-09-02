@@ -145,7 +145,10 @@ body, html {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, 1fr);
   }
-    
+   #Aboutme{
+        margin-left: 20px;
+        margin-right: 20px;
+   }
 }
 @media screen and (min-width: 1001px) and (max-width: 1500px) {
   .flipcard-container {
