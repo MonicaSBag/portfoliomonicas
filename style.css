@@ -77,13 +77,13 @@ body, html {
 }
 #Aboutme{
   margin-top: 60px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 90px;
+  margin-right: 90px;
   margin-bottom: 100px;
 }
 .about-me{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
@@ -147,13 +147,7 @@ body, html {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, 1fr);
   }
-
-#Aboutme{
-  margin-top: 60px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 100px;
-}    
+    
 }
 @media screen and (min-width: 1001px) and (max-width: 1500px) {
   .flipcard-container {
@@ -166,7 +160,8 @@ body, html {
   grid-template-columns: repeat(3, 250px);
   gap: 15px;
   justify-content: center;
-  margin-left: 100px;
+  margin-left: 90px;
+  margin-right: 90px;
 }
 
 #descargar-cv:link, a:visited {
