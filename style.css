@@ -52,7 +52,7 @@ body, html {
 }   
 
 .bg-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/MonicaSBag/portfolio_monicas/blob/main/bkimage.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(bkimage.jpg);
     height: 100vh; /* Set the height to full viewport height */
     background-position: center;
     background-repeat: no-repeat;
