@@ -1,4 +1,4 @@
-/* Style the header */
+    /* Style the header */
 .header {
     overflow: hidden;
     padding: 5px;
@@ -137,6 +137,7 @@ body, html {
   gap: 10px;
   justify-items: center;
   align-items: center;
+  width: 95%;
 }
 @media screen and (min-width: 100px) and (max-width: 999px){
   .flipcard-container {
